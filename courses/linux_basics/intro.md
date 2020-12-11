@@ -49,7 +49,7 @@ The following topics has been covered in this course:
     -  [Text Processing Commands](https://linkedin.github.io/school-of-sre/linux_basics/command_line_basics/#text-processing-commands)
     -  [I/O Redirection](https://linkedin.github.io/school-of-sre/linux_basics/command_line_basics/#io-redirection)
 -  [Linux system administration](https://linkedin.github.io/school-of-sre/linux_basics/linux_server_administration/)
-    -  [Lab Environment Setup](https://linkedin.github.io/school-of-sre/linux_basics/#linux_server_administration/lab-environment-setup)
+    -  [Lab Environment Setup](https://linkedin.github.io/school-of-sre/linux_basics/linux_server_administration/#lab-environment-setup)
     -  [User/Groups management](https://linkedin.github.io/school-of-sre/linux_basics/linux_server_administration/#usergroup-management)
     -  [Becoming a Superuser](https://linkedin.github.io/school-of-sre/linux_basics/linux_server_administration/#becoming-a-superuser)
     -  [File Permissions](https://linkedin.github.io/school-of-sre/linux_basics/linux_server_administration/#file-permissions)
